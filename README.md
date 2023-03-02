@@ -39,7 +39,7 @@ This category takes text as input.
 | Name | TRL | More Links |
 |-|-|-|
 | [Brad](https://www.bradai.chat) | 5-6 | |
-| [ChatGPT](https://chatgptonline.net/) | 8-9 | [[GPT-3 API]](https://platform.openai.com/docs/models/gpt-3) |
+| [ChatGPT](https://chatgptonline.net/) | 8-9 | [[API]](https://platform.openai.com/docs/guides/chat) [[Paper]](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf) |
 | [Claude](https://claudeai.tech/) | 5-6 | [[Paper]](https://claudeai.tech/constitutional.pdf) |
 | [Copilot](https://github.com/features/copilot) (Code only) | 8-9 | |
 | [LLaMA](https://docs.google.com/forms/d/e/1FAIpQLSfqNECQnMkycAp2jP4Z9TFX0cGR4uf7b_fBxjY_OjhJILlKGA/viewform) | 6-7 | [[Paper]](https://research.facebook.com/publications/llama-open-and-efficient-foundation-language-models/) [[Code]](https://github.com/facebookresearch/llama) |
