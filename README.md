@@ -42,6 +42,7 @@ This category takes text as input.
 | [ChatGPT](https://chatgptonline.net/) | 8-9 | [[API]](https://platform.openai.com/docs/guides/chat) [[Paper]](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf) |
 | [Claude](https://claudeai.tech/) | 5-6 | [[Paper]](https://claudeai.tech/constitutional.pdf) |
 | [Copilot](https://github.com/features/copilot) (Code only) | 8-9 | |
+| [GPT-4](https://openai.com/product/gpt-4) | 7-8 | [[API]](https://openai.com/waitlist/gpt-4-api) [[Paper]](https://arxiv.org/abs/2303.08774) |
 | [LLaMA](https://docs.google.com/forms/d/e/1FAIpQLSfqNECQnMkycAp2jP4Z9TFX0cGR4uf7b_fBxjY_OjhJILlKGA/viewform) | 6-7 | [[Paper]](https://research.facebook.com/publications/llama-open-and-efficient-foundation-language-models/) [[Code]](https://github.com/facebookresearch/llama) |
 | [New Bing](https://www.bing.com/new) | 7-8 | |
 
@@ -66,7 +67,9 @@ This category takes text as input.
 
 | Name | TRL | More Links |
 |-|-|-|
-| [DreamFusion](https://dreamfusion3d.github.io/index.html) | 4-5 | [[Paper]](https://arxiv.org/abs/2209.14988)  |
+| [DreamFusion](https://dreamfusion3d.github.io/index.html) | 4-5 | [[Paper]](https://arxiv.org/abs/2209.14988) [[3rd Party Code]](https://github.com/ashawkey/stable-dreamfusion) |
+| [DreamFields](https://ajayj.com/dreamfields) | 4-5 | [[Paper]](https://arxiv.org/abs/2112.01455) [[Code]](https://github.com/google-research/google-research/tree/master/dreamfields) |
+| [Magic3D](https://research.nvidia.com/labs/dir/magic3d/) | 4-5 | [[Paper]](https://arxiv.org/abs/2211.10440) |
 | [Text2Mesh](https://threedle.github.io/text2mesh/) | 4-5 | [[Paper]](https://arxiv.org/abs/2112.03221) [[Code]](https://github.com/threedle/text2mesh) |
 
 ### Text to Voice
