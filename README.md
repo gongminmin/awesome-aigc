@@ -45,6 +45,7 @@ This category takes text as input.
 | [GPT-4](https://openai.com/product/gpt-4) | 7-8 | [[API]](https://openai.com/waitlist/gpt-4-api) [[Paper]](https://arxiv.org/abs/2303.08774) |
 | [LLaMA](https://docs.google.com/forms/d/e/1FAIpQLSfqNECQnMkycAp2jP4Z9TFX0cGR4uf7b_fBxjY_OjhJILlKGA/viewform) | 6-7 | [[Paper]](https://research.facebook.com/publications/llama-open-and-efficient-foundation-language-models/) [[Code]](https://github.com/facebookresearch/llama) |
 | [New Bing](https://www.bing.com/new) | 7-8 | |
+| [StableLM](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models) | 5-6 | [[Code]](https://github.com/stability-AI/stableLM/) |
 
 ### Text to Image
 
@@ -121,6 +122,7 @@ This category contains enhancement methods to other AIGCs.
 | Name | TRL | More Links |
 |-|-|-|
 | [ControlNet](https://github.com/lllyasviel/ControlNet) | 5-6 | [[Paper]](https://arxiv.org/abs/2302.05543) |
+| [GPTCache](https://gptcache.readthedocs.io/en/latest/) | 5-6 | [[Code]](https://github.com/zilliztech/gptcache) |
 
 ## Contributing
 
