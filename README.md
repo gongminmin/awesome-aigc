@@ -72,7 +72,7 @@ This category takes text as input.
 | [DreamFields](https://ajayj.com/dreamfields) | 4-5 | [[Paper]](https://arxiv.org/abs/2112.01455) [[Code]](https://github.com/google-research/google-research/tree/master/dreamfields) |
 | [Magic3D](https://research.nvidia.com/labs/dir/magic3d/) | 4-5 | [[Paper]](https://arxiv.org/abs/2211.10440) |
 | [Text2Mesh](https://threedle.github.io/text2mesh/) | 4-5 | [[Paper]](https://arxiv.org/abs/2112.03221) [[Code]](https://github.com/threedle/text2mesh) |
-
+| [MTN](https://texaser.github.io/MTN-projectpage/) | 4-5 | [[Paper]](https://arxiv.org/abs/2309.14600) [[Code]](https://github.com/Texaser/MTN) |
 ### Text to Voice
 
 | Name | TRL | More Links |
