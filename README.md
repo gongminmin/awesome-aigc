@@ -106,8 +106,10 @@ This category takes single image or multiple images as input.
 | Name | TRL | More Links |
 |-|-|-|
 | [GET3D](https://nv-tlabs.github.io/GET3D/) | 4-5 | [[Paper]](https://nv-tlabs.github.io/GET3D/assets/paper.pdf) [[Code]](https://github.com/nv-tlabs/GET3D) |
+| [3D-Magic-Mirror](https://github.com/layumi/3D-Magic-Mirror) | 4-5 | [[Paper]](https://arxiv.org/abs/2204.13096) [[Code]](https://github.com/layumi/3D-Magic-Mirror) |
 | [nvdiffrec](https://nvlabs.github.io/nvdiffrec/) | 5-6 | [[Paper]](https://nvlabs.github.io/nvdiffrec/assets/paper.pdf) [[Code]](https://github.com/NVlabs/nvdiffrec) |
 | [pix2pix3D](http://www.cs.cmu.edu/~pix2pix3D/) | 5-6 | [[Paper]](https://arxiv.org/abs/2302.08509) [[Code]](https://github.com/dunbar12138/pix2pix3D) |
+
 
 ### Image to Video
 
