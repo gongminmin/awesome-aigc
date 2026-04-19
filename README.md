@@ -55,6 +55,7 @@ This category takes text as input.
 | [MidJourney](https://www.midjourney.com) | 8-9 | |
 | [Stable Diffusion](https://ommer-lab.com/research/latent-diffusion-models/) | 7-8 | [[Paper]](https://arxiv.org/abs/2112.10752) [[Code]](https://github.com/CompVis/stable-diffusion) |
 | [TEXTure](https://texturepaper.github.io/TEXTurePaper/) (Texture only) | 4-5 | [[Paper]](https://arxiv.org/pdf/2302.01721.pdf) [[Code]](https://github.com/TEXTurePaper/TEXTurePaper) [[Demo]](https://huggingface.co/spaces/TEXTurePaper/TEXTure) |
+| [AI Art Generator](https://ebank.nz) | 8-9 | |
 
 ### Text to Video
 
@@ -108,6 +109,7 @@ This category takes single image or multiple images as input.
 | [GET3D](https://nv-tlabs.github.io/GET3D/) | 4-5 | [[Paper]](https://nv-tlabs.github.io/GET3D/assets/paper.pdf) [[Code]](https://github.com/nv-tlabs/GET3D) |
 | [nvdiffrec](https://nvlabs.github.io/nvdiffrec/) | 5-6 | [[Paper]](https://nvlabs.github.io/nvdiffrec/assets/paper.pdf) [[Code]](https://github.com/NVlabs/nvdiffrec) |
 | [pix2pix3D](http://www.cs.cmu.edu/~pix2pix3D/) | 5-6 | [[Paper]](https://arxiv.org/abs/2302.08509) [[Code]](https://github.com/dunbar12138/pix2pix3D) |
+| [SimplexGen](https://simplexgen.com) | 8-9 | |
 
 ### Image to Video
 
