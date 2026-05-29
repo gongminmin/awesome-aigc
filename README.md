@@ -51,6 +51,7 @@ This category takes text as input.
 
 | Name | TRL | More Links |
 |-|-|-|
+| [Comicory](https://www.comicory.com) (Multi-panel comic, character-consistent) | 8-9 | |
 | [DALL·E 2](https://openai.com/dall-e-2/) | 7-8 | [[API]](https://platform.openai.com/docs/guides/images/usage) [[Paper]](https://arxiv.org/abs/2204.06125) |
 | [MidJourney](https://www.midjourney.com) | 8-9 | |
 | [Stable Diffusion](https://ommer-lab.com/research/latent-diffusion-models/) | 7-8 | [[Paper]](https://arxiv.org/abs/2112.10752) [[Code]](https://github.com/CompVis/stable-diffusion) |
