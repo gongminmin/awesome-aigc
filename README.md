@@ -55,6 +55,7 @@ This category takes text as input.
 | [MidJourney](https://www.midjourney.com) | 8-9 | |
 | [Stable Diffusion](https://ommer-lab.com/research/latent-diffusion-models/) | 7-8 | [[Paper]](https://arxiv.org/abs/2112.10752) [[Code]](https://github.com/CompVis/stable-diffusion) |
 | [TEXTure](https://texturepaper.github.io/TEXTurePaper/) (Texture only) | 4-5 | [[Paper]](https://arxiv.org/pdf/2302.01721.pdf) [[Code]](https://github.com/TEXTurePaper/TEXTurePaper) [[Demo]](https://huggingface.co/spaces/TEXTurePaper/TEXTure) |
+| [Seedream AI Studio](https://seedream4.video/) | 8-9 | Multi-model platform (Seedream 5.0/4.5/4.0) by ByteDance, ranked #1 in AI Image Arena. Up to 10 reference images, free tier. |
 
 ### Text to Video
 
