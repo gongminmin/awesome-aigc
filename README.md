@@ -63,6 +63,7 @@ This category takes text as input.
 | [Fliki](https://fliki.ai/) | 8-9 | [[API]](https://fliki.ai/resources/api) |
 | [Make-A-Video](https://makeavideo.studio/) | 4-5 | [[Paper]](https://arxiv.org/abs/2209.14792) |
 | [Phenaki](https://phenaki.video/) | 4-5 | [[Paper]](https://openreview.net/forum?id=vOEXS39nOF) |
+| [videos.social](https://videos.social/?utm_source=awesome-aigc&utm_medium=directory&utm_campaign=listing-wave-d) | 8-9 | |
 
 ### Text to Mesh
 
