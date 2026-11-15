@@ -46,6 +46,7 @@ This category takes text as input.
 | [LLaMA](https://docs.google.com/forms/d/e/1FAIpQLSfqNECQnMkycAp2jP4Z9TFX0cGR4uf7b_fBxjY_OjhJILlKGA/viewform) | 6-7 | [[Paper]](https://research.facebook.com/publications/llama-open-and-efficient-foundation-language-models/) [[Code]](https://github.com/facebookresearch/llama) |
 | [New Bing](https://www.bing.com/new) | 7-8 | |
 | [StableLM](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models) | 5-6 | [[Code]](https://github.com/stability-AI/stableLM/) |
+| [No Stairs Please MCP](https://nostairsplease.com/mcp) | 8-9 | [[MCP]](https://nostairsplease.com/mcp) |
 
 ### Text to Image
 
